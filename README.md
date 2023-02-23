@@ -1,2 +1,5 @@
-# Full Stack MERN AI Image Generation App Tutorial by JavaScript Mastery
+# Full Stack MERN AI Image Generation App 
+## Tutorial by JavaScript Mastery
 https://www.youtube.com/watch?v=EyIvuigqDoA
+
+![picture of the layout]()
